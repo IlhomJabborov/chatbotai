@@ -1,0 +1,9 @@
+streamlit
+openai
+langchain
+unstructured
+tiktoken
+chromadb
+langchain-community
+docx2txt
+
