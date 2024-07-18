@@ -6,4 +6,7 @@ tiktoken
 chromadb
 langchain-community
 docx2txt
+protobuf 
+opentelemetry-api 
+opentelemetry-sdk
 
