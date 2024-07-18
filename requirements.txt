@@ -6,4 +6,4 @@ tiktoken==0.7.0
 chromadb==0.5.4
 langchain-community==0.2.7
 docx2txt==0.8
-protobuf==3.19.6
+protobuf>=3.20.0,<4
