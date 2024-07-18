@@ -12,7 +12,7 @@ import openai
 api = "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"
 openai.api_key = api
 
-loader = Docx2txtLoader("/content/data.docx") 
+loader = Docx2txtLoader("/data.docx") 
 pages = loader.load_and_split() 
 
 embedding = OpenAIEmbeddings(openai_api_key=api)
