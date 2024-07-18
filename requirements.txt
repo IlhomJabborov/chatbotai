@@ -1,9 +1,10 @@
-streamlit
 openai
 langchain
 unstructured
 tiktoken
 chromadb
 langchain-community
+environs
+pypdf
+gradio
 docx2txt
-pysqlite3-binary
