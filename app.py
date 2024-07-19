@@ -9,7 +9,7 @@ from langchain.vectorstores import Chroma
 from langchain.document_loaders import Docx2txtLoader
 import openai
 
-api = "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"
+api = "API-KEY"
 openai.api_key = api
 
 loader = Docx2txtLoader("./data.docx") 
